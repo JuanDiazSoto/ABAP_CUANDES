@@ -4,7 +4,8 @@ la idea de estas, es poder tener un codigo elegible y optimo.
 
 ## SQL
 
-- no utilizar la sentencia **SELECT * FROM**.
+- no utilizar la sentencia **SELECT * FROM**:
+    declarar solo los campos que se requieren de la consulta.
 - no utilizar la sentencia **FOR ALL ENTRIES**.
 - no utilizar la sentencia **INTO CORRESPONDING FIELDS**, ni tampoco utilizar **INTO CORRESPONDING FIELDS TABLE**.
 
