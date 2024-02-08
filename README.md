@@ -102,16 +102,39 @@ Ejemplo (tabla 2)
   
 | TIPO DE OBJETO | NOMENCLATURA | EJEMPLO |
 | ---------------| -------------|---------|
-| TABLA          | T  | ZMS_T_NNNN|
-| ESTRUCTURA     | S  | ZMS_S_NNNN|
-| TIPO TABLA      | TT | ZMS_TT_NNNN|
+| TABLA          | T  | ZXX_T_NNNN|
+| ESTRUCTURA     | S  | ZXX_S_NNNN|
+| TIPO TABLA      | TT | ZXX_TT_NNNN|
 | ELEMENTO DE DATOS | E | ZE_NNNN|
 | DOMINIO DE DATOS | D | ZD_NNNN|
 | AYUDA DE BUSQUEDA | H | ZH_NNNN|
 | ESTILO (SAPSCRIPT) | ST | ZST_NNNN|
-| SMARTFORMS | SF | ZMS_SF_NNNN|
+| SMARTFORMS | SF | ZXX_SF_NNNN|
 | MODULO DE TEXTO | MT | ZMT_NNNN|
-| GRUPO DE FUNCIONES | GF | ZMS_GF_NNNN|
-| MODULO DE FUNCIONES | F | ZMS_F_NNNN|
-| PROGRAMA | RP | ZMS_RP_NNNN |
+| GRUPO DE FUNCIONES | GF | ZXX_GF_NNNN|
+| MODULO DE FUNCIONES | F | ZXX_F_NNNN|
+| PROGRAMA | RP | ZXX_RP_NNNN |
+
+Ejemplo Practico para vertical de SALUD "ISH"
+
+| TIPO DE OBJETO | NOMENCLATURA | EJEMPLO | * |
+| ---------------| -------------|---------|---|
+| TABLA          | T  | ZISH_T_NNNN|
+| ESTRUCTURA     | S  | ZISH_S_NNNN|
+| TIPO TABLA      | TT | ZISH_TT_NNNN|
+| ELEMENTO DE DATOS | E | ZE_NNNN|*|
+| DOMINIO DE DATOS | D | ZD_NNNN|*|
+| AYUDA DE BUSQUEDA | H | ZH_NNNN|*|
+| ESTILO (SAPSCRIPT) | ST | ZST_NNNN|*|
+| SMARTFORMS | SF | ZISH_SF_NNNN|
+| MODULO DE TEXTO | MT | ZMT_NNNN|*|
+| GRUPO DE FUNCIONES | GF | ZISH_GF_NNNN|
+| MODULO DE FUNCIONES | F | ZISH_F_NNNN|
+| PROGRAMA | RP | ZISH_RP_NNNN |
+
+*Observación: todos estos objetos de preferencia deben ser transversales independiente \
+al modulo o vertical que corresponda.
+
+
+
 
