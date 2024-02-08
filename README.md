@@ -133,7 +133,7 @@ Ejemplo Practico para vertical de SALUD "ISH"
 | PROGRAMA | RP | ZISH_RP_NNNN |
 
 *Observación: todos estos objetos de preferencia deben ser transversales independiente \
-al modulo o vertical que corresponda.
+al módulo o vertical que corresponda.
 
 
 
