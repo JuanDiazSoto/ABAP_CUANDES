@@ -59,7 +59,7 @@ la idea de estas, es poder tener un codigo elegible y optimo.
 
 - es necesario que a las tablas estandar se accedan con sus respectivas llaves o indices.
 - no utilizar sentencia select dentro de un loop ni en capas inferiores.
-- si es necesario Modularizar sentencias que se utilizan repetitivamente, ejemplo formatos de fecha y hora.
+- siempre se recomienda modularizar logica que es recurente: ejemplo seteo de hora y fecha.
 - siempre diseñar el programa a nivel de performs y no todo en uno mismo, con la idea principal que el codigo sea siempre  \
   entendible.
 - A todos los programas y tablas debera solicitar objeto de autorización.
